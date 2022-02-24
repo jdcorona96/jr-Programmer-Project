@@ -1,0 +1,13 @@
+- What do you need to implement, and where will you implement it ? 
+Write down your thoughts now, to compare them with the approach we take.
+
+A- I might need to implement some methods in the button that same some content to files. the load will read that file and store the information according to the info. I might need to use the MenuUIhandler and new script that does the file actions 
+
+- Where have you encountered similar functionality before, in Create with Code or other learning experiences? 
+Even if you can’t access the code, think about examples of data persistence between sessions that you’re familiar with.
+
+A- saving games, word files, turning the computer on
+
+- Beyond Unity Learn, what resources could help you do this? Think about options within the Unity ecosystem and beyond it.
+
+A- json files handlers
